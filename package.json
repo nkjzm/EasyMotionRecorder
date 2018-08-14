@@ -1,0 +1,10 @@
+{
+    "name": "jp.entum.easy-motion-recorder",
+    "displayName": "EasyMotionRecorder",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "description": "This is my hogehoge Package.",
+    "keywords": ["Script", "Test"],
+    "category": "Controllers",
+    "dependencies": { }
+}
